@@ -1,4 +1,4 @@
-# budget-tracker
+# Budget Tracker
 
 ## Summary 
 simple budget tracker to track daily expenses. the best part is that you can use this offline 😁
@@ -8,3 +8,6 @@ simple budget tracker to track daily expenses. the best part is that you can use
 * HTML 
 * CSS 
 * IndexedDB
+* Javascript 
+* MongoDB
+
